@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-livedata-viewmodel</string>
+    <string name="text_change_color">Change Color</string>
+</resources>
